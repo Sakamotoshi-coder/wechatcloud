@@ -1,0 +1,17 @@
+{
+  "name": "Wechat Cloud · 微信创作工具",
+  "short_name": "Wechat Cloud",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#07c160",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
